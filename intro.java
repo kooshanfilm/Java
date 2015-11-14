@@ -7,9 +7,7 @@ after run java name of the file without.Java
 */
 
 import java.io.Console;
- 
 public class intro {
-  
     public static void main(String[] args) {
         Console console = System.console();
         // Welcome to the Introductions program!  Your code goes below here
