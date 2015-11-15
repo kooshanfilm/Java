@@ -13,8 +13,6 @@ public class parsing_integers
 			console.printf("you can use this software");
 			System.exit(0);
 		}
-		      
-
-}
+	}
 }
 
