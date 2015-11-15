@@ -8,8 +8,7 @@ console.print();
 System.console(0);
 
 if and else:
-	if (variable < x) {
-	}
+	if (variable < x)
 
 --Parsing String to integer
 String age1 = console.readLine("your number")
@@ -20,13 +19,13 @@ String name = "james"
 if (name.equalsIgnoreCase("james"))
 
 --Using Logical ORs 
-if (name.equalsIgnoreCase("a") || name.equalsIgnoreCase("two"))
+if(name.equalsIgnoreCase("a") || name.equalsIgnoreCase("two"))
 
 --do loop
 String response;
 do {
    response = console.readLine("do you understand do while loops?");
-}while(response.equalsIgnoreCase("No"));
+} while(response.equalsIgnoreCase("No"));
 
 
 

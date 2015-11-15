@@ -9,7 +9,6 @@ console.printf("%s is my name here",firstname);
 
 import java.io.Console;
 public class Strings_variables {
-  
     public static void main(String[] args) {
         Console console = System.console();
         String firstName = "James";

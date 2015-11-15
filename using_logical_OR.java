@@ -12,7 +12,6 @@ public class using_logical_OR
         	console.printf("your name is James");
         	System.exit(0);
         }
-
 	}
 }
 

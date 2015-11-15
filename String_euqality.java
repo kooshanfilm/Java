@@ -1,6 +1,5 @@
 /*
 conditional statement
-
 */
 import java.io.Console;
 public class parsing_integers
@@ -12,7 +11,6 @@ public class parsing_integers
         	console.printf("your name is James")
         	System.exit(0);
         }
-
 	}
 }
 

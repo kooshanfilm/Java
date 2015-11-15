@@ -5,7 +5,6 @@ if you need to run this on console run the following:
 (javac == complile) and then then name of the file
 after run java name of the file without.Java
 */
-
 import java.io.Console;
 public class intro {
     public static void main(String[] args) {

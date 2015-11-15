@@ -12,8 +12,6 @@ public class conditional_statement
 			console.printf("you can use this software");
 			System.exit(0);
 		}
-		      
-
-}
+	}
 }
 
